@@ -19,10 +19,9 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-/*  background-image: url("../images/chausu.jpeg"); */
+  background-image: url("/chausu.jpeg");
   height:500px;
   min-width:100%;
-  background-color:blue;
   background-size: cover;
   color: white;
   text-align: center;
